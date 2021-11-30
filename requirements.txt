@@ -2,5 +2,5 @@ numpy
 pandas
 matplotlib
 sklearn
-pickle
+pickle-mixin
 streamlit
